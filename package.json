@@ -2,6 +2,7 @@
     "name": "wetzel",
     "version": "0.0.1",
     "description": "Generate Markdown documentation from JSON Schema",
+    "main": "lib/generateMarkdown.js",
     "license": "Apache-2.0",
     "author": {
         "name": "Patrick Cozzi",
